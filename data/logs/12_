@@ -1,0 +1,25 @@
+CILK_NWORKERS=12  ./Nibble-Parallel
+	-r 20000 -s   ../../inputs/com-orkut.ungraph.txt
+num iterations = 10 total pushes = 4587687
+computation time : 3.17
+vertices touched = 1708359
+edges touched = 117032828
+conductance = 0.0489 |S| = 1468990 vol(S) = 83496379 edgesCrossing = 4086755
+num iterations = 10 total pushes = 4587687
+computation time : 3.2
+vertices touched = 1708359
+edges touched = 117032828
+conductance = 0.0489 |S| = 1468990 vol(S) = 83496379 edgesCrossing = 4086755
+Running time : 4.88
+num iterations = 10 total pushes = 4587687
+computation time : 3.15
+vertices touched = 1708359
+edges touched = 117032828
+conductance = 0.0489 |S| = 1468990 vol(S) = 83496379 edgesCrossing = 4086755
+Running time : 4.8
+num iterations = 10 total pushes = 4587687
+computation time : 3.1
+vertices touched = 1708359
+edges touched = 117032828
+conductance = 0.0489 |S| = 1468990 vol(S) = 83496379 edgesCrossing = 4086755
+Running time : 4.73
